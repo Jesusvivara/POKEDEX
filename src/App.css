@@ -64,10 +64,15 @@ body{
 }
 h2,h3,h4{
   color: aliceblue;
-  text-shadow: 2px 2px 2px black;
+  text-shadow: 2px 1px 2px black;
   margin-bottom: 5px;
   margin-top: 2px;
 }
+span{
+  color: aliceblue;
+  text-shadow: 2px 1px 1px black;
+}
+
 .izq{
   justify-content: left;
   display: inline-flex;
@@ -102,11 +107,12 @@ option{
 input{
   background-color: transparent;
   height: 30px;
-  width: 150px;
+  width: 250px;
   color: aliceblue;
   border: solid 1px white;
   font-size:large ;
   border-radius: 25px;
+  margin-top: 10px;
 }
 
 /* TIPOS DE POKEMON */

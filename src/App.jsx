@@ -20,7 +20,7 @@ function App() {
       "Grass",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/bulbasaur-2.gif",
     "base": {
       "HP": 45,
       "Attack": 49,
@@ -42,7 +42,7 @@ function App() {
       "Grass",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/ivysaur-2.gif",
     "base": {
       "HP": 60,
       "Attack": 62,
@@ -64,7 +64,7 @@ function App() {
       "Grass",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/venusaur.gif",
     "base": {
       "HP": 80,
       "Attack": 82,
@@ -85,7 +85,7 @@ function App() {
     "type": [
       "Fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/charmander-2.gif",
     "base": {
       "HP": 39,
       "Attack": 52,
@@ -106,7 +106,7 @@ function App() {
     "type": [
       "Fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/charmeleon-2.gif",
     "base": {
       "HP": 58,
       "Attack": 64,
@@ -128,7 +128,7 @@ function App() {
       "Fire",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/charizard-2.gif",
     "base": {
       "HP": 78,
       "Attack": 84,
@@ -149,7 +149,7 @@ function App() {
     "type": [
       "Water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/squirtle-2.gif",
     "base": {
       "HP": 44,
       "Attack": 48,
@@ -170,7 +170,7 @@ function App() {
     "type": [
       "Water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/wartortle-2.gif",
     "base": {
       "HP": 59,
       "Attack": 63,
@@ -191,7 +191,7 @@ function App() {
     "type": [
       "Water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/blastoise-2.gif",
     "base": {
       "HP": 79,
       "Attack": 83,
@@ -212,7 +212,7 @@ function App() {
     "type": [
       "Bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/caterpie-2.gif",
     "base": {
       "HP": 45,
       "Attack": 30,
@@ -233,7 +233,7 @@ function App() {
     "type": [
       "Bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/metapod.gif",
     "base": {
       "HP": 50,
       "Attack": 20,
@@ -255,7 +255,7 @@ function App() {
       "Bug",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/butterfree.gif",
     "base": {
       "HP": 60,
       "Attack": 45,
@@ -277,7 +277,7 @@ function App() {
       "Bug",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/weedle.gif",
     "base": {
       "HP": 40,
       "Attack": 35,
@@ -299,7 +299,7 @@ function App() {
       "Bug",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/kakuna.gif",
     "base": {
       "HP": 45,
       "Attack": 25,
@@ -321,7 +321,7 @@ function App() {
       "Bug",
       "Poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/beedrill.gif",
     "base": {
       "HP": 65,
       "Attack": 90,
@@ -343,7 +343,7 @@ function App() {
       "Normal",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/pidgey.gif",
     "base": {
       "HP": 40,
       "Attack": 45,
@@ -365,7 +365,7 @@ function App() {
       "Normal",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/pidgeotto.gif",
     "base": {
       "HP": 63,
       "Attack": 60,
@@ -387,7 +387,7 @@ function App() {
       "Normal",
       "Flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/pidgeot.gif",
     "base": {
       "HP": 83,
       "Attack": 80,
@@ -408,7 +408,7 @@ function App() {
     "type": [
       "Normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/rattata.gif",
     "base": {
       "HP": 30,
       "Attack": 56,
@@ -429,7 +429,7 @@ function App() {
     "type": [
       "Normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/raticate.gif",
     "base": {
       "HP": 55,
       "Attack": 81,
@@ -447,7 +447,7 @@ function App() {
     setTypeSelected(event.target.value)
   }
   const handlepokemonSearch = (event) => {
-    setPokemonSearch(...pokemonSearch, { [event.target.name]: event.target.value })
+    setPokemonSearch(event.target.value)
   }
 
   return (
@@ -470,7 +470,7 @@ function App() {
           <input type="text"
             placeholder="Poke Search..."
             name="pokemon"
-            value={pokemonSearch.pokemon} />
+          />
 
           {/* <Inputtxt/> */}
         </form>
@@ -479,6 +479,9 @@ function App() {
         {
           pokemons.filter(pokemon => { return typeSelected === "Todos" ? true : pokemon.type.includes(typeSelected) })
             // pokemons.filter(pokemon => pokemon.name.english.includes(pokemonSearch))
+            .filter((pokemon) => {
+              return pokemon.name.english === "" ? true : pokemon.name.english.toLowerCase().includes(pokemonSearch.toLowerCase())
+            })
             .map(pokemon => {
               return (<Card name={pokemon.name.english} image={pokemon.sprite} base={pokemon.base} types={pokemon.type} id={pokemon.id} />)
             })
