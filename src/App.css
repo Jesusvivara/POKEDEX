@@ -1,0 +1,134 @@
+body{
+  background-color: #263238;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em 0em;
+  
+}
+.form{
+  color: #FFF;
+}
+
+.App {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 80px;
+  grid-auto-rows: minmax(100px, auto);
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.types{
+  display: inline-block;
+  background-color: chocolate;
+  padding: 5px 10px;
+  margin-right: 10px;
+  color: #FFF;
+  border-radius: 15px;
+}
+
+.filters{
+  margin-bottom: 1em;
+}
+
+.card{
+  display: flex;
+  width: 30vh;
+  height: 100%;
+  flex-direction: column;
+  background-color: #1565c0;
+  border: solid 8px #ffff00;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 5px;
+  padding-bottom: 30px;
+  box-sizing: border-box;
+}
+.center{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+.d.flex{
+  display: flex;
+
+}
+.flex.direction{
+  flex-direction: column;
+}
+h2,h3,h4{
+  color: aliceblue;
+  text-shadow: 2px 2px 2px black;
+  margin-bottom: 5px;
+  margin-top: 2px;
+}
+.izq{
+  justify-content: left;
+  display: inline-flex;
+  height: 100%;
+  width: 100%;
+}
+.num{
+  padding-left: 25px;
+}
+.der{
+  margin-left: -50%;
+  padding-top: 25px;
+}
+.w{
+  width: 210px;
+  box-sizing: border-box;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+select{
+  background-color: #263238;
+  height: 30px;
+  width: 250px;
+  color: aliceblue;
+  font-size:large ;
+  border-radius: 25px;
+  border: solid 1px white;
+}
+option{
+  background-color: transparent;
+}
+input{
+  background-color: transparent;
+  height: 30px;
+  width: 150px;
+  color: aliceblue;
+  border: solid 1px white;
+  font-size:large ;
+  border-radius: 25px;
+}
+
+/* TIPOS DE POKEMON */
+.Grass{
+  background-color: #00c853;
+}
+.Poison{
+  background-color: #6a1b9a;
+}
+.Fire{
+  background-color: #ff6d00;
+}
+
+.Bug{
+  background-color: #76ff03;
+}
+.Water{
+  background-color: #0091ea;
+}
+.Flying{
+  background-color: #80d8ff;
+}
+.Normal{
+  background-color:#8d6e63;
+}
