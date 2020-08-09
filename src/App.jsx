@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Card from './components/card';
-import inputtxt from "./components/inputtxt"
 import './App.css';
 
 
