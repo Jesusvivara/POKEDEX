@@ -24,8 +24,8 @@ function App() {
       "HP": 45,
       "Attack": 49,
       "Defense": 49,
-      "Sp. Attack": 65,
-      "Sp. Defense": 65,
+      "SpAttack": 65,
+      "SpDefense": 65,
       "Speed": 45
     }
   },
@@ -46,8 +46,8 @@ function App() {
       "HP": 60,
       "Attack": 62,
       "Defense": 63,
-      "Sp. Attack": 80,
-      "Sp. Defense": 80,
+      "SpAttack": 80,
+      "SpDefense": 80,
       "Speed": 60
     }
   },
@@ -68,8 +68,8 @@ function App() {
       "HP": 80,
       "Attack": 82,
       "Defense": 83,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
+      "SpAttack": 100,
+      "SpDefense": 100,
       "Speed": 80
     }
   },
@@ -89,8 +89,8 @@ function App() {
       "HP": 39,
       "Attack": 52,
       "Defense": 43,
-      "Sp. Attack": 60,
-      "Sp. Defense": 50,
+      "SpAttack": 60,
+      "SpDefense": 50,
       "Speed": 65
     }
   },
@@ -110,8 +110,8 @@ function App() {
       "HP": 58,
       "Attack": 64,
       "Defense": 58,
-      "Sp. Attack": 80,
-      "Sp. Defense": 65,
+      "SpAttack": 80,
+      "SpDefense": 65,
       "Speed": 80
     }
   },
@@ -132,8 +132,8 @@ function App() {
       "HP": 78,
       "Attack": 84,
       "Defense": 78,
-      "Sp. Attack": 109,
-      "Sp. Defense": 85,
+      "SpAttack": 109,
+      "SpDefense": 85,
       "Speed": 100
     }
   },
@@ -153,8 +153,8 @@ function App() {
       "HP": 44,
       "Attack": 48,
       "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 64,
+      "SpAttack": 50,
+      "SpDefense": 64,
       "Speed": 43
     }
   },
@@ -174,8 +174,8 @@ function App() {
       "HP": 59,
       "Attack": 63,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 80,
+      "SpAttack": 65,
+      "SpDefense": 80,
       "Speed": 58
     }
   },
@@ -195,8 +195,8 @@ function App() {
       "HP": 79,
       "Attack": 83,
       "Defense": 100,
-      "Sp. Attack": 85,
-      "Sp. Defense": 105,
+      "SpAttack": 85,
+      "SpDefense": 105,
       "Speed": 78
     }
   },
@@ -216,8 +216,8 @@ function App() {
       "HP": 45,
       "Attack": 30,
       "Defense": 35,
-      "Sp. Attack": 20,
-      "Sp. Defense": 20,
+      "SpAttack": 20,
+      "SpDefense": 20,
       "Speed": 45
     }
   },
@@ -237,8 +237,8 @@ function App() {
       "HP": 50,
       "Attack": 20,
       "Defense": 55,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 30
     }
   },
@@ -259,8 +259,8 @@ function App() {
       "HP": 60,
       "Attack": 45,
       "Defense": 50,
-      "Sp. Attack": 90,
-      "Sp. Defense": 80,
+      "SpAttack": 90,
+      "SpDefense": 80,
       "Speed": 70
     }
   },
@@ -281,8 +281,8 @@ function App() {
       "HP": 40,
       "Attack": 35,
       "Defense": 30,
-      "Sp. Attack": 20,
-      "Sp. Defense": 20,
+      "SpAttack": 20,
+      "SpDefense": 20,
       "Speed": 50
     }
   },
@@ -303,8 +303,8 @@ function App() {
       "HP": 45,
       "Attack": 25,
       "Defense": 50,
-      "Sp. Attack": 25,
-      "Sp. Defense": 25,
+      "SpAttack": 25,
+      "SpDefense": 25,
       "Speed": 35
     }
   },
@@ -325,8 +325,8 @@ function App() {
       "HP": 65,
       "Attack": 90,
       "Defense": 40,
-      "Sp. Attack": 45,
-      "Sp. Defense": 80,
+      "SpAttack": 45,
+      "SpDefense": 80,
       "Speed": 75
     }
   },
@@ -347,8 +347,8 @@ function App() {
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "Sp. Attack": 35,
-      "Sp. Defense": 35,
+      "SpAttack": 35,
+      "SpDefense": 35,
       "Speed": 56
     }
   },
@@ -369,8 +369,8 @@ function App() {
       "HP": 63,
       "Attack": 60,
       "Defense": 55,
-      "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "SpAttack": 50,
+      "SpDefense": 50,
       "Speed": 71
     }
   },
@@ -391,8 +391,8 @@ function App() {
       "HP": 83,
       "Attack": 80,
       "Defense": 75,
-      "Sp. Attack": 70,
-      "Sp. Defense": 70,
+      "SpAttack": 70,
+      "SpDefense": 70,
       "Speed": 101
     }
   },
@@ -412,8 +412,8 @@ function App() {
       "HP": 30,
       "Attack": 56,
       "Defense": 35,
-      "Sp. Attack": 25,
-      "Sp. Defense": 35,
+      "SpAttack": 25,
+      "SpDefense": 35,
       "Speed": 72
     }
   },
@@ -433,8 +433,8 @@ function App() {
       "HP": 55,
       "Attack": 81,
       "Defense": 60,
-      "Sp. Attack": 50,
-      "Sp. Defense": 70,
+      "SpAttack": 50,
+      "SpDefense": 70,
       "Speed": 97
     }
   }]);
