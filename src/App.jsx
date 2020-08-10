@@ -19,13 +19,13 @@ function App() {
       "Grass",
       "Poison"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/bulbasaur-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
     "base": {
       "HP": 45,
       "Attack": 49,
       "Defense": 49,
-      "SpAttack": 65,
-      "SpDefense": 65,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
       "Speed": 45
     }
   },
@@ -41,13 +41,13 @@ function App() {
       "Grass",
       "Poison"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/ivysaur-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
     "base": {
       "HP": 60,
       "Attack": 62,
       "Defense": 63,
-      "SpAttack": 80,
-      "SpDefense": 80,
+      "Sp. Attack": 80,
+      "Sp. Defense": 80,
       "Speed": 60
     }
   },
@@ -63,13 +63,13 @@ function App() {
       "Grass",
       "Poison"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/venusaur.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
     "base": {
       "HP": 80,
       "Attack": 82,
       "Defense": 83,
-      "SpAttack": 100,
-      "SpDefense": 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
       "Speed": 80
     }
   },
@@ -84,13 +84,13 @@ function App() {
     "type": [
       "Fire"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/charmander-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
     "base": {
       "HP": 39,
       "Attack": 52,
       "Defense": 43,
-      "SpAttack": 60,
-      "SpDefense": 50,
+      "Sp. Attack": 60,
+      "Sp. Defense": 50,
       "Speed": 65
     }
   },
@@ -105,13 +105,13 @@ function App() {
     "type": [
       "Fire"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/charmeleon-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
     "base": {
       "HP": 58,
       "Attack": 64,
       "Defense": 58,
-      "SpAttack": 80,
-      "SpDefense": 65,
+      "Sp. Attack": 80,
+      "Sp. Defense": 65,
       "Speed": 80
     }
   },
@@ -127,13 +127,13 @@ function App() {
       "Fire",
       "Flying"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/charizard-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
     "base": {
       "HP": 78,
       "Attack": 84,
       "Defense": 78,
-      "SpAttack": 109,
-      "SpDefense": 85,
+      "Sp. Attack": 109,
+      "Sp. Defense": 85,
       "Speed": 100
     }
   },
@@ -148,13 +148,13 @@ function App() {
     "type": [
       "Water"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/squirtle-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
     "base": {
       "HP": 44,
       "Attack": 48,
       "Defense": 65,
-      "SpAttack": 50,
-      "SpDefense": 64,
+      "Sp. Attack": 50,
+      "Sp. Defense": 64,
       "Speed": 43
     }
   },
@@ -169,13 +169,13 @@ function App() {
     "type": [
       "Water"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/wartortle-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
     "base": {
       "HP": 59,
       "Attack": 63,
       "Defense": 80,
-      "SpAttack": 65,
-      "SpDefense": 80,
+      "Sp. Attack": 65,
+      "Sp. Defense": 80,
       "Speed": 58
     }
   },
@@ -190,13 +190,13 @@ function App() {
     "type": [
       "Water"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/blastoise-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
     "base": {
       "HP": 79,
       "Attack": 83,
       "Defense": 100,
-      "SpAttack": 85,
-      "SpDefense": 100,
+      "Sp. Attack": 85,
+      "Sp. Defense": 105,
       "Speed": 78
     }
   },
@@ -211,13 +211,13 @@ function App() {
     "type": [
       "Bug"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/caterpie-2.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
     "base": {
       "HP": 45,
       "Attack": 30,
       "Defense": 35,
-      "SpAttack": 20,
-      "SpDefense": 20,
+      "Sp. Attack": 20,
+      "Sp. Defense": 20,
       "Speed": 45
     }
   },
@@ -232,13 +232,13 @@ function App() {
     "type": [
       "Bug"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/metapod.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
     "base": {
       "HP": 50,
       "Attack": 20,
       "Defense": 55,
-      "SpAttack": 25,
-      "SpDefense": 25,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
       "Speed": 30
     }
   },
@@ -254,13 +254,13 @@ function App() {
       "Bug",
       "Flying"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/butterfree.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
     "base": {
       "HP": 60,
       "Attack": 45,
       "Defense": 50,
-      "SpAttack": 90,
-      "SpDefense": 80,
+      "Sp. Attack": 90,
+      "Sp. Defense": 80,
       "Speed": 70
     }
   },
@@ -276,13 +276,13 @@ function App() {
       "Bug",
       "Poison"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/weedle.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
     "base": {
       "HP": 40,
       "Attack": 35,
       "Defense": 30,
-      "SpAttack": 20,
-      "SpDefense": 20,
+      "Sp. Attack": 20,
+      "Sp. Defense": 20,
       "Speed": 50
     }
   },
@@ -298,13 +298,13 @@ function App() {
       "Bug",
       "Poison"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/kakuna.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
     "base": {
       "HP": 45,
       "Attack": 25,
       "Defense": 50,
-      "SpAttack": 25,
-      "SpDefense": 25,
+      "Sp. Attack": 25,
+      "Sp. Defense": 25,
       "Speed": 35
     }
   },
@@ -320,13 +320,13 @@ function App() {
       "Bug",
       "Poison"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/beedrill.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
     "base": {
       "HP": 65,
       "Attack": 90,
       "Defense": 40,
-      "SpAttack": 45,
-      "SpDefense": 80,
+      "Sp. Attack": 45,
+      "Sp. Defense": 80,
       "Speed": 75
     }
   },
@@ -342,13 +342,13 @@ function App() {
       "Normal",
       "Flying"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/pidgey.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
     "base": {
       "HP": 40,
       "Attack": 45,
       "Defense": 40,
-      "SpAttack": 35,
-      "SpDefense": 35,
+      "Sp. Attack": 35,
+      "Sp. Defense": 35,
       "Speed": 56
     }
   },
@@ -364,13 +364,13 @@ function App() {
       "Normal",
       "Flying"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/pidgeotto.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
     "base": {
       "HP": 63,
       "Attack": 60,
       "Defense": 55,
-      "SpAttack": 50,
-      "SpDefense": 50,
+      "Sp. Attack": 50,
+      "Sp. Defense": 50,
       "Speed": 71
     }
   },
@@ -386,13 +386,13 @@ function App() {
       "Normal",
       "Flying"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/pidgeot.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
     "base": {
       "HP": 83,
       "Attack": 80,
       "Defense": 75,
-      "SpAttack": 70,
-      "SpDefense": 70,
+      "Sp. Attack": 70,
+      "Sp. Defense": 70,
       "Speed": 101
     }
   },
@@ -407,13 +407,13 @@ function App() {
     "type": [
       "Normal"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/rattata.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
     "base": {
       "HP": 30,
       "Attack": 56,
       "Defense": 35,
-      "SpAttack": 25,
-      "SpDefense": 35,
+      "Sp. Attack": 25,
+      "Sp. Defense": 35,
       "Speed": 72
     }
   },
@@ -428,13 +428,13 @@ function App() {
     "type": [
       "Normal"
     ],
-    "sprite": "https://www.pokexperto.net/3ds/sprites/pokedex/animados/raticate.gif",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
     "base": {
       "HP": 55,
       "Attack": 81,
       "Defense": 60,
-      "SpAttack": 50,
-      "SpDefense": 70,
+      "Sp. Attack": 50,
+      "Sp. Defense": 70,
       "Speed": 97
     }
   }]);
